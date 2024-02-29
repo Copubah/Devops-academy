@@ -1,5 +1,5 @@
 # Devops
-## : Title : Introduction to Devops for Web Hosting and Infrastructure
+## Introduction to Devops for Web Hosting and Infrastructure
 - This course serves an entry point into the world of Devops,focusing on foundational concepts and practical skills for web hosting and server infrastructure management
 
 
